@@ -1,0 +1,23 @@
+1. Why don't we need end tag for <img>? Empty tag don't need end tag. 
+
+2. Safari will not show alt text of the image, but Chrome will.
+
+3. Declaring a language is important for accessibility applications (screen readers) and search engines
+
+4. The HTML5 standard does not require lowercase attribute names. Suggest use lowercase for attributes.
+   The HTML5 standard does not require quotes around attribute values.(if there is no space within the value) Recommend quotes.
+
+5. Search engines use the headings to index the structure and content of your web pages.
+
+6. The length of <hr> tag based on the window size, not the page size.
+
+7. How to write text "<p>" within a paragraph?
+
+8. <tagname style="property:value;"> The property is a CSS property. The value is a CSS value.
+
+9. Browsers usually indent <blockquote> elements.
+
+10. How many directions are there in HTML?
+
+11. How to indent the paragraph?
+
