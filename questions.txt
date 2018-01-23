@@ -21,3 +21,24 @@
 
 11. How to indent the paragraph?
 
+12. Colors:
+    background-color, color, border
+    i). Color name: https://www.w3schools.com/colors/colors_names.asp
+    ii). rgba(red, green, blue, alpha) alpha means opacity
+    iii). hex value: #rrggbb
+    iv). hsla(hue, saturation, lightness, alpha)
+
+13. CSS can be added to HTML elements in 3 ways:
+    Inline - by using the style attribute in HTML elements
+        <tagName style="attribute:value;"
+    Internal - by using a <style> element in the <head> section
+        <head>
+        <style>
+        tagName1 {attribute:value;}
+        tagName2 {attribute:value;}
+        </style>
+        </head>
+    External - by using an external CSS file
+        <head>
+            <link rel="stylesheet" href="THECSSFILE">
+        </head>
