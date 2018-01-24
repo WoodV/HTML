@@ -42,3 +42,16 @@
         <head>
             <link rel="stylesheet" href="THECSSFILE">
         </head>
+
+14. link state: (can be modified in <style>)
+    a:link {
+        color:VALUE;
+        background-color:VALUE;
+        text-decoration:VALUE;(font-size attribute doesn't work)
+    }
+    a:visited {}
+    a:active{}
+
+15. If your webpage is locked in a frame, you can use target="_top" to break out of the frame:
+
+
