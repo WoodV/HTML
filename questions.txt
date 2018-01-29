@@ -52,6 +52,16 @@
     a:visited {}
     a:active{}
 
-15. If your webpage is locked in a frame, you can use target="_top" to break out of the frame:
+15. If your webpage is locked in a frame, you can use target="_top" to break out of the frame
+
+16. link has target attributes:
+
+17. ID can be used as bookmark in <a>
+
+18. Using the style='width:x%' will adjust the width according to the size of the window
+
+19. image map is an interesting attribute.
+
+20. Within <picture> tag, the last child tag should be <img>
 
 
