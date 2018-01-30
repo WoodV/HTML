@@ -12,6 +12,8 @@
     }
     table, th, td {border: 1px solid black;border-collapse:collapse;}
     th, td {padding: 10px}
+    table#tb1 th {color: white; background-color:skyblue}
+    table#tb1 tr:nth-child(even){ background-color:#634; color:white }
   </style>
 </head>
 
@@ -101,7 +103,8 @@ The <abbr title="Abbreviations">abbr</abbr> tag is used for search-engines.
 </p>
 
 <p>
-<table style='width:70%;text-align:center;border-spacing:5px'>
+<table style='width:70%;text-align:center;border-spacing:5px' id='tb1'>
+    <caption>Schedule</caption>
     <tr>
         <th>Day 1</th>
         <th>Day 2</th>
