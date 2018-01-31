@@ -64,4 +64,4 @@
 
 20. Within <picture> tag, the last child tag should be <img>
 
-
+21. Block, or inline level elements is a structure level to categorize tags
